@@ -7,7 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=30&center=true&vCenter=true&width=700&lines=Fullstack+JavaScript+Developer;React+%7C+Angular+%7C+Unity;Building+Modern+Digital+Experiences" />
 </p>
 
----
 
 ### 💻 Programming Languages
 
